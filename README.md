@@ -12,7 +12,7 @@ I have to admit that I learned a lot during this project and it gave me a kick t
 
 Project No.3 - I am currently working on expanding project number 2 by converting it into a web application using REST API. The application is developed using the Spring / SpringBoot framework and will run on localhost (Tomcat server).
 Work tasks will be stored in the MySQL database (JDBC), and workers (managers/employees) will receive the most current task intended for them.
-You'll see you very soon.
+Project number 3 is still being worked on. 
 
 If you would like to ask me some questions or help with my project, here is my email: samuellancos@gmail.com
 Thank you very much :-)
